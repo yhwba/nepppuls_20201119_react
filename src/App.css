@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+img {
+  width: 200px;
+}
+body{
+  font-size: 30px;
+  color: #482763;
+}
+
+.Badge.red{
+ color: #ad0026;
+
+}
